@@ -1,2 +1,2 @@
 # doctor-appointment-with-phpmailer
-Completr Doctor Appointmnet booking system with mail and Admin Panel
+Completr Doctor Appointment booking system with mail and Admin Panel
