@@ -1,0 +1,4 @@
+.clothing-name-container > .col:not(.added-name-to-print-2),
+.clothing-name-container > .col:not(.added-name-to-print){
+    display:none;
+}

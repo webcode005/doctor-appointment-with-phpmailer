@@ -1,0 +1,66 @@
+[20-Sep-2023 05:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_quer() in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/testmail.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/testmail.php on line 11
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:48:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/testmail.php on line 21
+[20-Sep-2023 05:48:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/testmail.php on line 21
+[20-Sep-2023 05:48:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/testmail.php on line 23
+[20-Sep-2023 05:50:48 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:50:48 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:50:48 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:50:48 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:50:48 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:52:08 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:52:08 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:52:08 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:52:08 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:52:08 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:56:41 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:56:41 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:56:41 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:56:41 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:56:41 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:57:51 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:57:51 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:57:51 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:57:51 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:57:51 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:57:59 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:57:59 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:57:59 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:57:59 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:57:59 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 05:58:41 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 05:58:41 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 05:58:41 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 05:58:41 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 05:58:41 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 06:25:18 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[20-Sep-2023 06:25:18 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[20-Sep-2023 06:25:18 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[20-Sep-2023 06:25:18 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[20-Sep-2023 06:25:18 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[20-Sep-2023 16:44:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 2
+[22-Sep-2023 05:14:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 2
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 2
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[27-Sep-2023 12:54:19 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[27-Sep-2023 12:54:20 UTC] PHP Notice:  Undefined index: name in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 4
+[27-Sep-2023 12:54:20 UTC] PHP Notice:  Undefined index: email in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 5
+[27-Sep-2023 12:54:20 UTC] PHP Notice:  Undefined index: amount in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 6
+[27-Sep-2023 12:54:20 UTC] PHP Notice:  Undefined index: service in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 7
+[27-Sep-2023 12:54:20 UTC] PHP Notice:  Undefined index: signupid in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/config.php on line 8
+[27-Sep-2023 12:54:21 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_sTTNoyaxotIEYb) This value must be greater than or equal to 1.
+Stripe\Exception\InvalidRequestException: This value must be greater than or equal to 1. in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory('This value must...', 400, '{\n  "error": {\n...', Array, Object(Stripe\Util\CaseInsensitiveArray), 'parameter_inval...')
+#1 /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(213): Stripe\Exception\InvalidRequestException::factory('This value must...', 400, '{\n  "error": {\n...', Array, Object(Stripe\Util\CaseInsensitiveArray), 'parameter_inval...', 'amount')
+#2 /home/shipgoij/public_html/haldir in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38

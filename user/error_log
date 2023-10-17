@@ -1,0 +1,70 @@
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 15
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 21
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 52
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 53
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 54
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 55
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 56
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 57
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 58
+[20-Sep-2023 05:23:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 65
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 15
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 21
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 52
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 53
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 54
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 55
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 56
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 57
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 58
+[20-Sep-2023 05:24:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 65
+[20-Sep-2023 05:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::mysqli_fetch_assoc() in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/index.php on line 22
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 23
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 54
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 55
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 56
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 57
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 58
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 59
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 60
+[20-Sep-2023 05:31:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 67
+[20-Sep-2023 05:31:52 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 05:34:14 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 05:35:02 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 05:57:56 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Undefined index: cname in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 15
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 23
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 24
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 54
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 55
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 56
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 57
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 58
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 59
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 60
+[20-Sep-2023 09:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 67
+[20-Sep-2023 16:40:13 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 16:40:28 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 16:40:54 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 16:41:03 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Undefined index: cname in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 15
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 23
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 24
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 54
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 55
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 56
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 57
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 58
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 59
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 60
+[20-Sep-2023 16:47:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 67
+[20-Sep-2023 16:48:23 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[06-Oct-2023 16:01:31 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[06-Oct-2023 17:35:53 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
+[06-Oct-2023 17:36:15 UTC] PHP Notice:  Undefined index: id in /home/shipgoij/public_html/haldiramrestaurant.in/titan-website/user/dashboard.php on line 17
